@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://grasso19.github.io/portefolio/blog/</loc>
     <lastmod>2022-04-25T11:16:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://grasso19.github.io/portefolio/</loc>
     <lastmod>2022-04-25T11:16:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/premier_article/</loc>
+    <loc>https://grasso19.github.io/portefolio/blog/premier_article/</loc>
     <lastmod>2022-04-25T11:16:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://grasso19.github.io/portefolio/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://grasso19.github.io/portefolio/tags/</loc>
   </url>
 </urlset>
