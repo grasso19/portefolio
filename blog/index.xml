@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 11:16:15 +0200</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premier_article</title>
+      <link>http://example.org/blog/premier_article/</link>
+      <pubDate>Mon, 25 Apr 2022 11:16:15 +0200</pubDate>
+      
+      <guid>http://example.org/blog/premier_article/</guid>
+      <description>TEst
+C&amp;rsquo;est nul à chier le front </description>
+    </item>
+    
+  </channel>
+</rss>
